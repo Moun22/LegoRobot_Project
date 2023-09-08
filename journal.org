@@ -1,0 +1,20 @@
+<24/11/2021>
+
+* Projet: Reconnaissance d'image (feuilles d'arbres)
+* TODO:
+- détailler le sujet dans un fichier à mettre sur le git
+- se documenter sur l'analyse d'image / la reconnaissance d'image
+- expliciter la méthode que vous allez utiliser
+
+<25/01/2022>
+* changement de sujet : suiveur de lignes
+
+<01/02/2022>
+* FAIT :
+  - OS installé : lequel ? programmation python
+  - capteurs et moteurs OK
+  - reconnaissance de couleurs simple (3 mesures, erreur de 5/256 en RGB)
+  - pièces récupérées
+* TODO :
+  - tester davantage le reconnaissance de couleurs
+  - montage du robot et premier algo de suivi de ligne
